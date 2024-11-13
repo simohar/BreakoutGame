@@ -4,10 +4,10 @@ A simple and beautifully designed Breakout game built with HTML, CSS, and JavaSc
 ## How to Play
 Downlaod all the scripts, open the file and drag the index.html file into a webpage of your choice.
 
-Controls: Use the Left Arrow and Right Arrow keys to move the paddle.
-Objective: Break all the bricks by bouncing the ball off the paddle.
-Lives: You have 3 lives. The game ends when you lose all your lives.
-Winning: Destroy all the bricks to win the game.
+- Controls: Use the Left Arrow and Right Arrow keys to move the paddle.
+- Objective: Break all the bricks by bouncing the ball off the paddle.
+- Lives: You have 3 lives. The game ends when you lose all your lives.
+- Winning: Destroy all the bricks to win the game.
 
 ## Built With
 - HTML5 Canvas for rendering the game.
