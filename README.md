@@ -1,8 +1,9 @@
 # Breakout Game
-
 A simple and beautifully designed Breakout game built with HTML, CSS, and JavaScript.
 
 ## How to Play
+Downlaod all the scripts, open the file and drag the index.html file into a webpage of your choice.
+
 Controls: Use the Left Arrow and Right Arrow keys to move the paddle.
 Objective: Break all the bricks by bouncing the ball off the paddle.
 Lives: You have 3 lives. The game ends when you lose all your lives.
